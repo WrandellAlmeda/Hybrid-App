@@ -1,0 +1,94 @@
+
+
+ <h1>ANDRES BONIFACIO INTEGRATED SCHOOL</h1>
+
+  <table class="table text-center" bordered="2">  
+
+                   <tr>  
+                   <th>Student ID</th>  
+                   <th>Student Name</th>  
+                   <th>Parent/Guardian Name</th>  
+                   <th>Age</th>
+                   <th>Gender</th>
+                   <th>Contact</th>
+                   <th>Address</th>
+                   <th>Email Address of Parents</th>
+                   </tr>
+ 
+   <tr>  
+                       <td>4598965</td>  
+                       <td>Juan Dela Cruz</td>  
+                       <td>Joji Dela Cruz</td>  
+                       <td>18</td>  
+                       <td>MALE</td>
+                       <td>09568447895</td>
+                       <td>Quezon City</td>
+                       <td>invina.j.bsinfotech@gmail.com</td>
+                   </tr>
+  
+   <tr>  
+                       <td>6</td>  
+                       <td>Mariann</td>  
+                       <td>Correche</td>  
+                       <td>22</td>  
+                       <td>FEMALE</td>
+                       <td>092312312313</td>
+                       <td>trial 1</td>
+                       <td>correche.m.bsinfotech@gmail.com</td>
+                   </tr>
+  
+   <tr>  
+                       <td>5</td>  
+                       <td>Wilson</td>  
+                       <td>Puno</td>  
+                       <td>22</td>  
+                       <td>MALE</td>
+                       <td>092312312312</td>
+                       <td>trial 1</td>
+                       <td>punow.bsinfotech@gmail.com</td>
+                   </tr>
+  
+   <tr>  
+                       <td>4</td>  
+                       <td>Jonathan</td>  
+                       <td>Jimenez</td>  
+                       <td>22</td>  
+                       <td>MALE</td>
+                       <td>09312312123</td>
+                       <td>trial 1</td>
+                       <td>jimenez.j.bsinfotech@gmail.com</td>
+                   </tr>
+  
+   <tr>  
+                       <td>3</td>  
+                       <td>Sean</td>  
+                       <td>Palacio</td>  
+                       <td>22</td>  
+                       <td>MALE</td>
+                       <td>09312312312</td>
+                       <td>trial 1</td>
+                       <td>palacio.si.bsinfotech@gmail.com</td>
+                   </tr>
+  
+   <tr>  
+                       <td>2</td>  
+                       <td>Jerymie</td>  
+                       <td>Invina</td>  
+                       <td>22</td>  
+                       <td>FEMALE</td>
+                       <td>0865416061</td>
+                       <td>trial 1</td>
+                       <td>invina.j.bsinfotech@gmail.com</td>
+                   </tr>
+  
+   <tr>  
+                       <td>1</td>  
+                       <td>Wrandell Binx</td>  
+                       <td>Almeda</td>  
+                       <td>22</td>  
+                       <td>MALE</td>
+                       <td>090932132123</td>
+                       <td>trial 1</td>
+                       <td>almeda.w.bsinfotech@gmail.com</td>
+                   </tr>
+  </table>
