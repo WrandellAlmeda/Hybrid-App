@@ -22,7 +22,7 @@
 
 | Operating System | Recommended    | CPU          | Recommended CPU |GPU | Disk Storage|
 | :-------- | :------- | :------------------------- |:---------------|:--------|:---------|
-| `Windows 10 with SP1` | `Windows 10` | `Intel or AMD processor with 64-bit support` | `Intel or AMD processor, 2.8 GHz or faster processor` | `Integrated graphics (Accelerated Processing Unit)`| : 4 GB of free disk space|
+| `Windows 10 with SP1` | `Windows 10` | `Intel or AMD processor with 64-bit support` | `Intel or AMD processor, 2.8 GHz or faster processor` | `Integrated graphics (Accelerated Processing Unit)`| `4 GB of free disk space`|
 
 
 #### Mobile
