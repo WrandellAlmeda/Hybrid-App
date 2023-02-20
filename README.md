@@ -32,6 +32,9 @@
 | :-------- | :------- | :-------------------------|:--------|:---------|
 | `Android 10` | `Android 11` | `Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)` | `Mali-G57 MC2`| `4 GB of free disk space`|
 
+# DEMO
+
+- Watch our Demo Presentation in our YouTube by [Clicking Here 👋](https://www.youtube.com/watch?v=0ztGmcT0ePg)
 
 ## Researcher
 
